@@ -12,6 +12,6 @@ The page content is encrypted with AES-256-GCM using a key derived from the PIN 
    ```
    PIN=<your pin> node tools/encrypt.mjs path/to/dr-trip-planner.html index.html
    ```
-3. Commit and push `index.html`.
+3. Commit and push `index.html`. The encrypt step also stamps the "Last update" footer (Zurich time) at the bottom of the left column.
 
 Changing the PIN = re-running step 2 with a new PIN.
