@@ -34,5 +34,5 @@ e.g. `Last update: 01-11-2026 11:15:42`. The footer is `<div class="lastupdate" 
 
 - The family: 2 adults and one child, aged **5** in December 2026. Kids' facilities, height limits for slides (most need 1.10–1.20 m) and kids' club ages matter more than headline slide counts.
 - Hotel ratings shown are **Booking.com** scores (blue box, label, review count). Google ratings appear only as a small secondary note in the popup.
-- Default travel dates: **19–30 Dec 2026** (Sat → Wed, 11 nights). All Booking.com, Google Flights and Skyscanner links use these dates. Resort price estimates are for a 7-night week (scale ~1.5× for 11 nights); say they are estimates, not quotes.
+- Default travel dates: **19–30 Dec 2026** (Sat → Wed, 11 nights). All Booking.com, Google Flights and Skyscanner links use these dates. Resort price estimates on the page are for these 11 nights (2 adults + 1 child, resort only, no flights); say they are estimates, not quotes.
 - Keep facts sourced (Sources tab) and flag anything unverified rather than stating it as fact.
