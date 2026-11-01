@@ -1,0 +1,4 @@
+# Readable (unencrypted) pages must never be committed — the repo is public.
+private/
+*.plain.html
+dr-*.html
